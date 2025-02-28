@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1T11m4cNJ5Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ibrahim.zeqiraj.EOSCOP\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ibrahim.zeqiraj.EOSCOP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
