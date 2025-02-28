@@ -4,8 +4,7 @@ Dies ist eine **WPF (Windows Presentation Foundation) Anwendung**, die mit **C#*
 
 ## 📸 Vorschau
 
-https://imgur.com/a/vzZsyoG
-(z. B. Hauptfenster mit Wetteranzeige)
+![Screenshot](https://i.imgur.com/h90ufuH.png)
 
 ## 🚀 Features
 
@@ -18,4 +17,4 @@ https://imgur.com/a/vzZsyoG
 
 ## 🛠️ Mitwirkende
 
-- @ibrazqrj
+- [@ibrazqrj](https://github.com/ibrazqrj/)
