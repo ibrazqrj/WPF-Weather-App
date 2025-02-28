@@ -21,3 +21,4 @@ C:\Users\Ibrahim.zeqiraj.EOSCOP\source\repos\WeatherApp\WeatherApp\obj\Debug\net
 C:\Users\Ibrahim.zeqiraj.EOSCOP\source\repos\WeatherApp\WeatherApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
 C:\Users\Ibrahim.zeqiraj.EOSCOP\source\repos\WeatherApp\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.csproj.AssemblyReference.cache
 C:\Users\Ibrahim.zeqiraj.EOSCOP\source\repos\WeatherApp\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.csproj.Up2Date
+C:\Users\Ibrahim.zeqiraj.EOSCOP\source\repos\WeatherApp\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.sourcelink.json
